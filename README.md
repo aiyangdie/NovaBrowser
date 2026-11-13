@@ -1,3 +1,23 @@
-<p align="center"><img src="assets/covers/48-NovaBrowser.jpg" alt="NovaBrowser 项目封面" width="100%"></p>
+<p align="center"><img src="assets/covers/48-NovaBrowser.jpg" alt="隐私浏览器 项目封面" width="100%"></p>
 
-# NovaBrowser
+<h1 align="center">NovaBrowser</h1>
+
+<p align="center">隐私优先的浏览器概念设计</p>
+
+## 简介
+
+一个浏览器交互与隐私策略的概念稿：默认拦截追踪、把权限请求讲清楚、把「谁在看你的数据」摆到明面上。目前停留在设计阶段，先记录思路。
+
+## 当前状态
+
+仓库正在筹备：现有内容为项目封面与这份说明，原型代码尚未提交。设计方向与优先级见 Issues，欢迎讨论。
+
+## 设计主张
+
+- 默认拒绝第三方追踪，而不是事后清理
+- 权限授予可追溯、可撤销，有一页就能看清
+- 隐私设置用人话解释后果，而不是术语堆叠
+
+## 许可证
+
+许可方式待定，定稿前请勿直接分发。
